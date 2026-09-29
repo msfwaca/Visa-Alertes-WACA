@@ -3,6 +3,8 @@
 A Power Apps canvas app that tracks staff visas, visa requests and expiry alerts for **MSF WaCA**. Visa data lives in SharePoint lists; Power Automate flows handle every write and the automatic status/e-mail alerts.
 
 > UI language: French. Code, variables and docs: English.
+> Here is a link tot he platform https://apps.powerapps.com/play/e/default-4d9dd1af-83ce-4e9b-b090-b0543ccc2b31/a/c5302b74-ca17-4f89-ae4e-b154603b5ac8?tenantId=4d9dd1af-83ce-4e9b-b090-b0543ccc2b31&hint=7ec9425d-27eb-42e6-a94c-e32937f9be8b&sourcetime=1790695032442&source=portal
+> Only admins have access to it .
 
 ## What it does
 
